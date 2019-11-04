@@ -1,0 +1,20 @@
+set number
+set showmatch
+set smarttab
+set hlsearch
+set autoindent
+set copyindent
+set shiftwidth=4
+set tabstop=4
+set scrolloff=5
+set wrap
+set laststatus=2
+set ruler
+set cursorline
+set relativenumber
+" set spell
+set incsearch
+set showmode
+set title
+syntax enable
+syntax on

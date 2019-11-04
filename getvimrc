@@ -1,0 +1,8 @@
+#!/bin/bash
+
+git clone https://github.com/Max-Hollywood/getvimrc.git
+
+cd getvimrc
+cp vimrc ~/.vimrc
+
+
